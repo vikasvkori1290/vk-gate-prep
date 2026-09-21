@@ -1,0 +1,8 @@
+{
+  "name": "vk-gate-prep-functions",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^8.6.2"
+  }
+}
