@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function StatsCard({ stats, totalCount = 104 }) {
+export default function StatsCard({ stats, totalCount = 130 }) {
   const completed = stats?.completed || 0;
   const total = stats?.total || totalCount;
   const pending = stats?.pending ?? (total - completed);

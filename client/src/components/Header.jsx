@@ -78,7 +78,7 @@ export default function Header({
           )}
         </div>
         <div>
-          <span>104 Core Syllabus Milestones Loaded</span>
+          <span>{stats?.total || 130} Daily Roadmap Milestones Loaded</span>
         </div>
       </div>
     </header>

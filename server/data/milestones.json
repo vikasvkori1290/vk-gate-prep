@@ -5,7 +5,7 @@
     "topic": "C Programming: Data types, Operators, Control statements, Functions",
     "targetDate": "2026-09-22",
     "completed": true,
-    "completedAt": "2026-09-21T14:16:50.244Z",
+    "completedAt": "2026-09-21T15:02:30.860Z",
     "remarks": ""
   },
   {
@@ -13,15 +13,15 @@
     "subject": "Programming & Data Structures",
     "topic": "C Programming: Recursion, Arrays, Pointers, Structures, Unions",
     "targetDate": "2026-09-23",
-    "completed": false,
-    "completedAt": null,
+    "completed": true,
+    "completedAt": "2026-09-23T08:59:30.327Z",
     "remarks": ""
   },
   {
     "serialNumber": 3,
     "subject": "Programming & Data Structures",
     "topic": "C Programming: Dynamic Memory Allocation, File I/O",
-    "targetDate": "2026-09-24",
+    "targetDate": "2026-09-25",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -30,7 +30,7 @@
     "serialNumber": 4,
     "subject": "Programming & Data Structures",
     "topic": "Data Structures: Arrays, Stacks, Applications of Stacks (Infix/Postfix/Evaluation)",
-    "targetDate": "2026-09-25",
+    "targetDate": "2026-09-26",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -38,7 +38,7 @@
   {
     "serialNumber": 5,
     "subject": "Programming & Data Structures",
-    "topic": "Data Structures: Queues, Circular Queues, Priority Queues",
+    "topic": "Data Structures: Arrays, Stacks, Applications of Stacks (Infix/Postfix/Evaluation)",
     "targetDate": "2026-09-27",
     "completed": false,
     "completedAt": null,
@@ -47,7 +47,7 @@
   {
     "serialNumber": 6,
     "subject": "Programming & Data Structures",
-    "topic": "Data Structures: Linked Lists (Singly, Doubly, Circular)",
+    "topic": "Data Structures: Queues, Circular Queues, Priority Queues",
     "targetDate": "2026-09-28",
     "completed": false,
     "completedAt": null,
@@ -56,7 +56,7 @@
   {
     "serialNumber": 7,
     "subject": "Programming & Data Structures",
-    "topic": "Data Structures: Binary Trees, Tree Traversals (In/Pre/Post/Level)",
+    "topic": "Data Structures: Linked Lists (Singly, Doubly, Circular)",
     "targetDate": "2026-09-29",
     "completed": false,
     "completedAt": null,
@@ -65,8 +65,8 @@
   {
     "serialNumber": 8,
     "subject": "Programming & Data Structures",
-    "topic": "Data Structures: Binary Search Trees (BST), AVL Trees",
-    "targetDate": "2026-10-01",
+    "topic": "Data Structures: Binary Trees, Tree Traversals (In/Pre/Post/Level)",
+    "targetDate": "2026-09-30",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -74,8 +74,8 @@
   {
     "serialNumber": 9,
     "subject": "Programming & Data Structures",
-    "topic": "Data Structures: B-Trees, B+ Trees, Heaps & Heapify",
-    "targetDate": "2026-10-02",
+    "topic": "Data Structures: Binary Trees, Tree Traversals (In/Pre/Post/Level)",
+    "targetDate": "2026-10-01",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -83,35 +83,35 @@
   {
     "serialNumber": 10,
     "subject": "Programming & Data Structures",
-    "topic": "Data Structures: Graphs Representation (Adjacency Matrix/List), Graph Traversal (BFS, DFS)",
-    "targetDate": "2026-10-03",
+    "topic": "Data Structures: Binary Search Trees (BST), AVL Trees",
+    "targetDate": "2026-10-02",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 11,
-    "subject": "Algorithms",
-    "topic": "Asymptotic Analysis: Recurrence Relations, Master Theorem, Substitution Method",
-    "targetDate": "2026-10-05",
+    "subject": "Programming & Data Structures",
+    "topic": "Data Structures: B-Trees, B+ Trees, Heaps & Heapify",
+    "targetDate": "2026-10-03",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 12,
-    "subject": "Algorithms",
-    "topic": "Divide & Conquer: Binary Search, Merge Sort, Quick Sort",
-    "targetDate": "2026-10-06",
+    "subject": "Programming & Data Structures",
+    "topic": "Data Structures: Graphs Representation (Adjacency Matrix/List), Graph Traversal (BFS, DFS)",
+    "targetDate": "2026-10-04",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 13,
-    "subject": "Algorithms",
-    "topic": "Greedy Algorithms: Knapsack, Huffman Coding, Minimum Spanning Trees (Prim's, Kruskal's)",
-    "targetDate": "2026-10-07",
+    "subject": "Programming & Data Structures",
+    "topic": "Data Structures: Graphs Representation (Adjacency Matrix/List), Graph Traversal (BFS, DFS)",
+    "targetDate": "2026-10-05",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -119,8 +119,8 @@
   {
     "serialNumber": 14,
     "subject": "Algorithms",
-    "topic": "Greedy Algorithms: Single Source Shortest Path (Dijkstra's Algorithm)",
-    "targetDate": "2026-10-08",
+    "topic": "Asymptotic Analysis: Recurrence Relations, Master Theorem, Substitution Method",
+    "targetDate": "2026-10-06",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -128,8 +128,8 @@
   {
     "serialNumber": 15,
     "subject": "Algorithms",
-    "topic": "Dynamic Programming: Matrix Chain Multiplication, 0/1 Knapsack",
-    "targetDate": "2026-10-10",
+    "topic": "Divide & Conquer: Binary Search, Merge Sort, Quick Sort",
+    "targetDate": "2026-10-07",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -137,8 +137,8 @@
   {
     "serialNumber": 16,
     "subject": "Algorithms",
-    "topic": "Dynamic Programming: Longest Common Subsequence, Floyd-Warshall Algorithm",
-    "targetDate": "2026-10-11",
+    "topic": "Greedy Algorithms: Knapsack, Huffman Coding, Minimum Spanning Trees (Prim's, Kruskal's)",
+    "targetDate": "2026-10-08",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -146,8 +146,8 @@
   {
     "serialNumber": 17,
     "subject": "Algorithms",
-    "topic": "Graph Algorithms: Topological Sort, Strongly Connected Components (Kosaraju/Tarjan)",
-    "targetDate": "2026-10-12",
+    "topic": "Greedy Algorithms: Single Source Shortest Path (Dijkstra's Algorithm)",
+    "targetDate": "2026-10-09",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -155,8 +155,8 @@
   {
     "serialNumber": 18,
     "subject": "Algorithms",
-    "topic": "Graph Algorithms: Bellman-Ford, All-Pairs Shortest Path",
-    "targetDate": "2026-10-14",
+    "topic": "Greedy Algorithms: Single Source Shortest Path (Dijkstra's Algorithm)",
+    "targetDate": "2026-10-10",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -164,53 +164,53 @@
   {
     "serialNumber": 19,
     "subject": "Algorithms",
-    "topic": "Hashing: Hash Functions, Collision Resolution (Chaining, Open Addressing)",
-    "targetDate": "2026-10-15",
+    "topic": "Dynamic Programming: Matrix Chain Multiplication, 0/1 Knapsack",
+    "targetDate": "2026-10-11",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 20,
-    "subject": "Discrete Mathematics",
-    "topic": "Mathematical Logic: Propositional & First-Order Logic, Validity, Truth Tables",
-    "targetDate": "2026-10-16",
+    "subject": "Algorithms",
+    "topic": "Dynamic Programming: Longest Common Subsequence, Floyd-Warshall Algorithm",
+    "targetDate": "2026-10-12",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 21,
-    "subject": "Discrete Mathematics",
-    "topic": "Set Theory: Sets, Relations, Equivalence Relations, Partial Orders, Posets",
-    "targetDate": "2026-10-18",
+    "subject": "Algorithms",
+    "topic": "Graph Algorithms: Topological Sort, Strongly Connected Components (Kosaraju/Tarjan)",
+    "targetDate": "2026-10-13",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 22,
-    "subject": "Discrete Mathematics",
-    "topic": "Order Theory & Lattices: Lattices, Bounded, Distributive, Complemented Lattices",
-    "targetDate": "2026-10-19",
+    "subject": "Algorithms",
+    "topic": "Graph Algorithms: Topological Sort, Strongly Connected Components (Kosaraju/Tarjan)",
+    "targetDate": "2026-10-14",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 23,
-    "subject": "Discrete Mathematics",
-    "topic": "Set Theory: Functions, Countable and Uncountable Sets",
-    "targetDate": "2026-10-20",
+    "subject": "Algorithms",
+    "topic": "Graph Algorithms: Bellman-Ford, All-Pairs Shortest Path",
+    "targetDate": "2026-10-15",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 24,
-    "subject": "Discrete Mathematics",
-    "topic": "Combinatorics: Permutations, Combinations, Counting Principles, Pigeonhole Principle",
-    "targetDate": "2026-10-21",
+    "subject": "Algorithms",
+    "topic": "Hashing: Hash Functions, Collision Resolution (Chaining, Open Addressing)",
+    "targetDate": "2026-10-16",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -218,8 +218,8 @@
   {
     "serialNumber": 25,
     "subject": "Discrete Mathematics",
-    "topic": "Combinatorics: Generating Functions, Recurrence Relations",
-    "targetDate": "2026-10-23",
+    "topic": "Mathematical Logic: Propositional & First-Order Logic, Validity, Truth Tables",
+    "targetDate": "2026-10-17",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -227,8 +227,8 @@
   {
     "serialNumber": 26,
     "subject": "Discrete Mathematics",
-    "topic": "Graph Theory: Connectivity, Matching, Coloring, Planar Graphs",
-    "targetDate": "2026-10-24",
+    "topic": "Mathematical Logic: Propositional & First-Order Logic, Validity, Truth Tables",
+    "targetDate": "2026-10-18",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -236,8 +236,8 @@
   {
     "serialNumber": 27,
     "subject": "Discrete Mathematics",
-    "topic": "Graph Theory: Eulerian and Hamiltonian Cycles, Trees, Isomorphism",
-    "targetDate": "2026-10-25",
+    "topic": "Set Theory: Sets, Relations, Equivalence Relations, Partial Orders, Posets",
+    "targetDate": "2026-10-19",
     "completed": false,
     "completedAt": null,
     "remarks": ""
@@ -245,563 +245,797 @@
   {
     "serialNumber": 28,
     "subject": "Discrete Mathematics",
-    "topic": "Algebraic Structures: Semigroups, Monoids, Groups, Subgroups, Cosets, Lagrange's Theorem",
-    "targetDate": "2026-10-27",
+    "topic": "Order Theory & Lattices: Lattices, Bounded, Distributive, Complemented Lattices",
+    "targetDate": "2026-10-20",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 29,
-    "subject": "Engineering Mathematics",
-    "topic": "Linear Algebra: Matrices, Determinants, System of Linear Equations",
-    "targetDate": "2026-10-28",
+    "subject": "Discrete Mathematics",
+    "topic": "Set Theory: Functions, Countable and Uncountable Sets",
+    "targetDate": "2026-10-21",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 30,
-    "subject": "Engineering Mathematics",
-    "topic": "Linear Algebra: Eigenvalues, Eigenvectors, LU Decomposition",
-    "targetDate": "2026-10-29",
+    "subject": "Discrete Mathematics",
+    "topic": "Combinatorics: Permutations, Combinations, Counting Principles, Pigeonhole Principle",
+    "targetDate": "2026-10-22",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 31,
-    "subject": "Engineering Mathematics",
-    "topic": "Calculus: Limits, Continuity, Differentiability, Mean Value Theorems",
-    "targetDate": "2026-10-31",
+    "subject": "Discrete Mathematics",
+    "topic": "Combinatorics: Permutations, Combinations, Counting Principles, Pigeonhole Principle",
+    "targetDate": "2026-10-23",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 32,
-    "subject": "Engineering Mathematics",
-    "topic": "Calculus: Definite & Indefinite Integrals, Maxima & Minima",
-    "targetDate": "2026-11-01",
+    "subject": "Discrete Mathematics",
+    "topic": "Combinatorics: Generating Functions, Recurrence Relations",
+    "targetDate": "2026-10-24",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 33,
-    "subject": "Engineering Mathematics",
-    "topic": "Probability: Random Variables, Uniform, Normal, Exponential, Poisson, Binomial Distributions",
-    "targetDate": "2026-11-02",
+    "subject": "Discrete Mathematics",
+    "topic": "Graph Theory: Connectivity, Matching, Coloring, Planar Graphs",
+    "targetDate": "2026-10-25",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 34,
-    "subject": "Engineering Mathematics",
-    "topic": "Probability: Mean, Median, Mode, Standard Deviation, Conditional Probability, Bayes Theorem",
-    "targetDate": "2026-11-04",
+    "subject": "Discrete Mathematics",
+    "topic": "Graph Theory: Eulerian and Hamiltonian Cycles, Trees, Isomorphism",
+    "targetDate": "2026-10-26",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 35,
-    "subject": "General Aptitude",
-    "topic": "Verbal Aptitude: English Grammar, Vocabulary, Reading Comprehension, Critical Reasoning",
-    "targetDate": "2026-11-05",
+    "subject": "Discrete Mathematics",
+    "topic": "Graph Theory: Eulerian and Hamiltonian Cycles, Trees, Isomorphism",
+    "targetDate": "2026-10-27",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 36,
-    "subject": "General Aptitude",
-    "topic": "Quantitative Aptitude: Data Interpretation, Numerical Computation, Ratios, Percentages, Series",
-    "targetDate": "2026-11-06",
+    "subject": "Discrete Mathematics",
+    "topic": "Algebraic Structures: Semigroups, Monoids, Groups, Subgroups, Cosets, Lagrange's Theorem",
+    "targetDate": "2026-10-28",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 37,
-    "subject": "General Aptitude",
-    "topic": "Quantitative Aptitude: Exponents & Logarithms, Mensuration, Geometry",
-    "targetDate": "2026-11-07",
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra: Matrices, Determinants, System of Linear Equations",
+    "targetDate": "2026-10-29",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 38,
-    "subject": "General Aptitude",
-    "topic": "Analytical Aptitude: Deductive/Inductive Logic, Syllogisms, Analogies, Data Sufficiency",
-    "targetDate": "2026-11-09",
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra: Eigenvalues, Eigenvectors, LU Decomposition",
+    "targetDate": "2026-10-30",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 39,
-    "subject": "General Aptitude",
-    "topic": "Spatial Aptitude: Transformation of Shapes (Translation, Rotation, Scaling, Mirroring), Paper Folding, 2D/3D Patterns",
-    "targetDate": "2026-11-10",
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra: Eigenvalues, Eigenvectors, LU Decomposition",
+    "targetDate": "2026-10-31",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 40,
-    "subject": "Operating Systems",
-    "topic": "OS Basics: System Calls, Processes, Threads, CPU Scheduling Algorithms",
-    "targetDate": "2026-11-11",
+    "subject": "Engineering Mathematics",
+    "topic": "Calculus: Limits, Continuity, Differentiability, Mean Value Theorems",
+    "targetDate": "2026-11-01",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 41,
-    "subject": "Operating Systems",
-    "topic": "Inter-Process Communication (IPC): Pipes, Message Passing, Shared Memory, Synchronization Primitives",
-    "targetDate": "2026-11-13",
+    "subject": "Engineering Mathematics",
+    "topic": "Calculus: Definite & Indefinite Integrals, Maxima & Minima",
+    "targetDate": "2026-11-02",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 42,
-    "subject": "Operating Systems",
-    "topic": "Process Synchronization: Critical Section Problem, Semaphores, Monitors, Classical IPC Problems",
-    "targetDate": "2026-11-14",
+    "subject": "Engineering Mathematics",
+    "topic": "Probability: Random Variables, Uniform, Normal, Exponential, Poisson, Binomial Distributions",
+    "targetDate": "2026-11-03",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 43,
-    "subject": "Operating Systems",
-    "topic": "Deadlocks: Characterization, Prevention, Avoidance (Banker's Algorithm), Detection & Recovery",
-    "targetDate": "2026-11-15",
+    "subject": "Engineering Mathematics",
+    "topic": "Probability: Random Variables, Uniform, Normal, Exponential, Poisson, Binomial Distributions",
+    "targetDate": "2026-11-04",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 44,
-    "subject": "Operating Systems",
-    "topic": "Memory Management: Paging, Segmentation, Multi-level Paging",
-    "targetDate": "2026-11-17",
+    "subject": "Engineering Mathematics",
+    "topic": "Probability: Mean, Median, Mode, Standard Deviation, Conditional Probability, Bayes Theorem",
+    "targetDate": "2026-11-05",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 45,
-    "subject": "Operating Systems",
-    "topic": "Virtual Memory: Page Replacement Algorithms (FIFO, LRU, Optimal), Thrashing",
-    "targetDate": "2026-11-18",
+    "subject": "General Aptitude",
+    "topic": "Verbal Aptitude: English Grammar, Vocabulary, Reading Comprehension, Critical Reasoning",
+    "targetDate": "2026-11-06",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 46,
-    "subject": "Operating Systems",
-    "topic": "File Systems & Disk Scheduling: FCFS, SSTF, SCAN, C-SCAN, Directory Structures",
-    "targetDate": "2026-11-19",
+    "subject": "General Aptitude",
+    "topic": "Quantitative Aptitude: Data Interpretation, Numerical Computation, Ratios, Percentages, Series",
+    "targetDate": "2026-11-07",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 47,
-    "subject": "Operating Systems",
-    "topic": "I/O Systems: I/O Hardware, Polling vs Interrupts, Buffering, Direct Memory Access",
-    "targetDate": "2026-11-20",
+    "subject": "General Aptitude",
+    "topic": "Quantitative Aptitude: Exponents & Logarithms, Mensuration, Geometry",
+    "targetDate": "2026-11-08",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 48,
-    "subject": "DBMS",
-    "topic": "ER-Model & Constraints: Entities, Attributes, Relationships, Integrity Constraints (Entity, Referential, Domain, Check)",
-    "targetDate": "2026-11-22",
+    "subject": "General Aptitude",
+    "topic": "Quantitative Aptitude: Exponents & Logarithms, Mensuration, Geometry",
+    "targetDate": "2026-11-09",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 49,
-    "subject": "DBMS",
-    "topic": "Relational Model: Relational Algebra, Relational Calculus (TRC, DRC)",
-    "targetDate": "2026-11-23",
+    "subject": "General Aptitude",
+    "topic": "Analytical Aptitude: Deductive/Inductive Logic, Syllogisms, Analogies, Data Sufficiency",
+    "targetDate": "2026-11-10",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 50,
-    "subject": "DBMS",
-    "topic": "SQL: DDL, DML, Nested Queries, Joins, Aggregation, Views",
-    "targetDate": "2026-11-24",
+    "subject": "General Aptitude",
+    "topic": "Spatial Aptitude: Transformation of Shapes (Translation, Rotation, Scaling, Mirroring), Paper Folding, 2D/3D Patterns",
+    "targetDate": "2026-11-11",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 51,
-    "subject": "DBMS",
-    "topic": "Database Design: Functional Dependencies, Attribute Closure, Canonical Cover",
-    "targetDate": "2026-11-26",
+    "subject": "Operating Systems",
+    "topic": "OS Basics: System Calls, Processes, Threads, CPU Scheduling Algorithms",
+    "targetDate": "2026-11-12",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 52,
-    "subject": "DBMS",
-    "topic": "Normalization: 1NF, 2NF, 3NF, BCNF, Lossless Join, Dependency Preservation",
-    "targetDate": "2026-11-27",
+    "subject": "Operating Systems",
+    "topic": "OS Basics: System Calls, Processes, Threads, CPU Scheduling Algorithms",
+    "targetDate": "2026-11-13",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 53,
-    "subject": "DBMS",
-    "topic": "Transactions & Concurrency: ACID Properties, Serializability (Conflict & View)",
-    "targetDate": "2026-11-28",
+    "subject": "Operating Systems",
+    "topic": "Inter-Process Communication (IPC): Pipes, Message Passing, Shared Memory, Synchronization Primitives",
+    "targetDate": "2026-11-14",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 54,
-    "subject": "DBMS",
-    "topic": "Concurrency Control: Two-Phase Locking (2PL), Timestamp Ordering, Deadlock Handling",
-    "targetDate": "2026-11-30",
+    "subject": "Operating Systems",
+    "topic": "Process Synchronization: Critical Section Problem, Semaphores, Monitors, Classical IPC Problems",
+    "targetDate": "2026-11-15",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 55,
-    "subject": "DBMS",
-    "topic": "Failure & Recovery: Write-Ahead Logging (WAL), Checkpointing, Undo/Redo Operations",
-    "targetDate": "2026-12-01",
+    "subject": "Operating Systems",
+    "topic": "Deadlocks: Characterization, Prevention, Avoidance (Banker's Algorithm), Detection & Recovery",
+    "targetDate": "2026-11-16",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 56,
-    "subject": "DBMS",
-    "topic": "Indexing: B Trees, B+ Trees, File Organization, Hashing",
-    "targetDate": "2026-12-02",
+    "subject": "Operating Systems",
+    "topic": "Deadlocks: Characterization, Prevention, Avoidance (Banker's Algorithm), Detection & Recovery",
+    "targetDate": "2026-11-17",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 57,
-    "subject": "Digital Logic",
-    "topic": "Boolean Algebra: Logic Gates, Minimization, K-Maps (SOP, POS Form)",
-    "targetDate": "2026-12-03",
+    "subject": "Operating Systems",
+    "topic": "Memory Management: Paging, Segmentation, Multi-level Paging",
+    "targetDate": "2026-11-18",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 58,
-    "subject": "Digital Logic",
-    "topic": "Combinational Circuits: Adders, Subtractors, Multiplexers, Decoders, Encoders",
-    "targetDate": "2026-12-05",
+    "subject": "Operating Systems",
+    "topic": "Virtual Memory: Page Replacement Algorithms (FIFO, LRU, Optimal), Thrashing",
+    "targetDate": "2026-11-19",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 59,
-    "subject": "Digital Logic",
-    "topic": "Sequential Circuits: Latches, Flip-Flops (SR, JK, D, T), Race-around Condition",
-    "targetDate": "2026-12-06",
+    "subject": "Operating Systems",
+    "topic": "File Systems & Disk Scheduling: FCFS, SSTF, SCAN, C-SCAN, Directory Structures",
+    "targetDate": "2026-11-20",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 60,
-    "subject": "Digital Logic",
-    "topic": "Registers & Counters: Synchronous/Asynchronous Counters, Shift Registers",
-    "targetDate": "2026-12-07",
+    "subject": "Operating Systems",
+    "topic": "I/O Systems: I/O Hardware, Polling vs Interrupts, Buffering, Direct Memory Access",
+    "targetDate": "2026-11-21",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 61,
-    "subject": "Digital Logic",
-    "topic": "Data Representation: Fixed & Floating Point Representation, Number Systems",
-    "targetDate": "2026-12-09",
+    "subject": "Operating Systems",
+    "topic": "I/O Systems: I/O Hardware, Polling vs Interrupts, Buffering, Direct Memory Access",
+    "targetDate": "2026-11-22",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 62,
-    "subject": "Theory of Computation",
-    "topic": "Regular Languages: Finite Automata (DFA, NFA, NFA-to-DFA conversion)",
-    "targetDate": "2026-12-10",
+    "subject": "DBMS",
+    "topic": "ER-Model & Constraints: Entities, Attributes, Relationships, Integrity Constraints (Entity, Referential, Domain, Check)",
+    "targetDate": "2026-11-23",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 63,
-    "subject": "Theory of Computation",
-    "topic": "Regular Languages: Regular Expressions, Pumping Lemma for Regular Languages, Closure Properties",
-    "targetDate": "2026-12-11",
+    "subject": "DBMS",
+    "topic": "Relational Model: Relational Algebra, Relational Calculus (TRC, DRC)",
+    "targetDate": "2026-11-24",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 64,
-    "subject": "Theory of Computation",
-    "topic": "Context-Free Languages: Pushdown Automata (PDA), Context-Free Grammars (CFG), Ambiguity",
-    "targetDate": "2026-12-13",
+    "subject": "DBMS",
+    "topic": "SQL: DDL, DML, Nested Queries, Joins, Aggregation, Views",
+    "targetDate": "2026-11-25",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 65,
-    "subject": "Theory of Computation",
-    "topic": "Context-Free Languages: Chomsky Normal Form (CNF), Pumping Lemma for CFLs, Closure Properties",
-    "targetDate": "2026-12-14",
+    "subject": "DBMS",
+    "topic": "SQL: DDL, DML, Nested Queries, Joins, Aggregation, Views",
+    "targetDate": "2026-11-26",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 66,
-    "subject": "Theory of Computation",
-    "topic": "Turing Machines: Definition, Variants, Halting Problem, Decidability",
-    "targetDate": "2026-12-15",
+    "subject": "DBMS",
+    "topic": "Database Design: Functional Dependencies, Attribute Closure, Canonical Cover",
+    "targetDate": "2026-11-27",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 67,
-    "subject": "Theory of Computation",
-    "topic": "Chomsky Hierarchy, Undecidability, Reducibility, Recursive & Recursively Enumerable Sets",
-    "targetDate": "2026-12-17",
+    "subject": "DBMS",
+    "topic": "Normalization: 1NF, 2NF, 3NF, BCNF, Lossless Join, Dependency Preservation",
+    "targetDate": "2026-11-28",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 68,
-    "subject": "Compiler Design",
-    "topic": "Lexical Analysis: Tokens, Regular Expressions, Transition Diagrams",
-    "targetDate": "2026-12-18",
+    "subject": "DBMS",
+    "topic": "Transactions & Concurrency: ACID Properties, Serializability (Conflict & View)",
+    "targetDate": "2026-11-29",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 69,
-    "subject": "Compiler Design",
-    "topic": "Parsing: Top-Down Parsing (LL(1)), Bottom-Up Parsing (Operator Precedence)",
-    "targetDate": "2026-12-19",
+    "subject": "DBMS",
+    "topic": "Transactions & Concurrency: ACID Properties, Serializability (Conflict & View)",
+    "targetDate": "2026-11-30",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 70,
-    "subject": "Compiler Design",
-    "topic": "Parsing: LR Parsers (SLR, CLR, LALR), Shift-Reduce Conflicts",
-    "targetDate": "2026-12-20",
+    "subject": "DBMS",
+    "topic": "Concurrency Control: Two-Phase Locking (2PL), Timestamp Ordering, Deadlock Handling",
+    "targetDate": "2026-12-01",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 71,
-    "subject": "Compiler Design",
-    "topic": "Syntax Directed Translation: Synthesized & Inherited Attributes, SDD/SDT",
-    "targetDate": "2026-12-22",
+    "subject": "DBMS",
+    "topic": "Failure & Recovery: Write-Ahead Logging (WAL), Checkpointing, Undo/Redo Operations",
+    "targetDate": "2026-12-02",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 72,
-    "subject": "Compiler Design",
-    "topic": "Intermediate Code Generation & Run-Time Environments: Three-Address Code, Symbol Tables, Parameter Passing",
-    "targetDate": "2026-12-23",
+    "subject": "DBMS",
+    "topic": "Indexing: B Trees, B+ Trees, File Organization, Hashing",
+    "targetDate": "2026-12-03",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 73,
-    "subject": "Compiler Design",
-    "topic": "Code Optimization & Basic Blocks: Local Optimization, Basic Blocks, DAGs, Peephole Optimization",
-    "targetDate": "2026-12-24",
+    "subject": "Digital Logic",
+    "topic": "Boolean Algebra: Logic Gates, Minimization, K-Maps (SOP, POS Form)",
+    "targetDate": "2026-12-04",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 74,
-    "subject": "Compiler Design",
-    "topic": "Data-Flow Analyses: Liveness Analysis, Constant Propagation, Common Subexpression Elimination",
-    "targetDate": "2026-12-26",
+    "subject": "Digital Logic",
+    "topic": "Boolean Algebra: Logic Gates, Minimization, K-Maps (SOP, POS Form)",
+    "targetDate": "2026-12-05",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 75,
-    "subject": "Computer Organization & Architecture",
-    "topic": "Machine Instructions: Addressing Modes, Instruction Formats, Execution Cycle",
-    "targetDate": "2026-12-27",
+    "subject": "Digital Logic",
+    "topic": "Combinational Circuits: Adders, Subtractors, Multiplexers, Decoders, Encoders",
+    "targetDate": "2026-12-06",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 76,
-    "subject": "Computer Organization & Architecture",
-    "topic": "ALU & Data Path: Computer Arithmetic (Addition, Subtraction, Booth's Algorithm)",
-    "targetDate": "2026-12-28",
+    "subject": "Digital Logic",
+    "topic": "Sequential Circuits: Latches, Flip-Flops (SR, JK, D, T), Race-around Condition",
+    "targetDate": "2026-12-07",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 77,
-    "subject": "Computer Organization & Architecture",
-    "topic": "Pipelining: Pipeline Hazards (Data, Structural, Control), Throughput & Speedup",
-    "targetDate": "2026-12-30",
+    "subject": "Digital Logic",
+    "topic": "Registers & Counters: Synchronous/Asynchronous Counters, Shift Registers",
+    "targetDate": "2026-12-08",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 78,
-    "subject": "Computer Organization & Architecture",
-    "topic": "Memory Hierarchy: Main Memory, Auxiliary Memory, Cache Memory Mapping (Direct, Set-Associative)",
-    "targetDate": "2026-12-31",
+    "subject": "Digital Logic",
+    "topic": "Registers & Counters: Synchronous/Asynchronous Counters, Shift Registers",
+    "targetDate": "2026-12-09",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 79,
-    "subject": "Computer Organization & Architecture",
-    "topic": "Cache Performance: Hit Ratio, Write Policies, Cache Coherence",
-    "targetDate": "2027-01-01",
+    "subject": "Digital Logic",
+    "topic": "Data Representation: Fixed & Floating Point Representation, Number Systems",
+    "targetDate": "2026-12-10",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 80,
-    "subject": "Computer Organization & Architecture",
-    "topic": "I/O Interface: Programmed I/O, Interrupt-driven I/O, Direct Memory Access (DMA)",
-    "targetDate": "2027-01-02",
+    "subject": "Theory of Computation",
+    "topic": "Regular Languages: Finite Automata (DFA, NFA, NFA-to-DFA conversion)",
+    "targetDate": "2026-12-11",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 81,
-    "subject": "Computer Networks",
-    "topic": "ISO/OSI & TCP/IP Protocol Stacks, Physical Layer Basics",
-    "targetDate": "2027-01-04",
+    "subject": "Theory of Computation",
+    "topic": "Regular Languages: Regular Expressions, Pumping Lemma for Regular Languages, Closure Properties",
+    "targetDate": "2026-12-12",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 82,
-    "subject": "Computer Networks",
-    "topic": "Switching Basics: Circuit Switching, Packet Switching, Virtual Circuit Switching",
-    "targetDate": "2027-01-05",
+    "subject": "Theory of Computation",
+    "topic": "Regular Languages: Regular Expressions, Pumping Lemma for Regular Languages, Closure Properties",
+    "targetDate": "2026-12-13",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 83,
-    "subject": "Computer Networks",
-    "topic": "Data Link Layer: Framing, Error Detection (CRC, Checksum), Error Control, Ethernet Bridging & Switches",
-    "targetDate": "2027-01-06",
+    "subject": "Theory of Computation",
+    "topic": "Context-Free Languages: Pushdown Automata (PDA), Context-Free Grammars (CFG), Ambiguity",
+    "targetDate": "2026-12-14",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 84,
-    "subject": "Computer Networks",
-    "topic": "Data Link Layer: Sliding Window Protocols (Stop & Wait, Go-Back-N, Selective Repeat), CSMA/CD",
-    "targetDate": "2027-01-08",
+    "subject": "Theory of Computation",
+    "topic": "Context-Free Languages: Chomsky Normal Form (CNF), Pumping Lemma for CFLs, Closure Properties",
+    "targetDate": "2026-12-15",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 85,
-    "subject": "Computer Networks",
-    "topic": "Network Layer: IPv4 Addressing, Subnetting, CIDR, IPv6 Basics",
-    "targetDate": "2027-01-09",
+    "subject": "Theory of Computation",
+    "topic": "Turing Machines: Definition, Variants, Halting Problem, Decidability",
+    "targetDate": "2026-12-16",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 86,
-    "subject": "Computer Networks",
-    "topic": "Network Layer Protocols: ARP, ICMP, NAT (Network Address Translation)",
-    "targetDate": "2027-01-10",
+    "subject": "Theory of Computation",
+    "topic": "Turing Machines: Definition, Variants, Halting Problem, Decidability",
+    "targetDate": "2026-12-17",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 87,
-    "subject": "Computer Networks",
-    "topic": "Network Layer Routing: Distance Vector, Link State Routing, Fragmentation",
-    "targetDate": "2027-01-12",
+    "subject": "Theory of Computation",
+    "topic": "Chomsky Hierarchy, Undecidability, Reducibility, Recursive & Recursively Enumerable Sets",
+    "targetDate": "2026-12-18",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 88,
-    "subject": "Computer Networks",
-    "topic": "Transport Layer: TCP vs UDP, Flow Control, Congestion Control, Socket Interface Basics",
-    "targetDate": "2027-01-13",
+    "subject": "Compiler Design",
+    "topic": "Lexical Analysis: Tokens, Regular Expressions, Transition Diagrams",
+    "targetDate": "2026-12-19",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 89,
-    "subject": "Computer Networks",
-    "topic": "Application Layer: DNS, SMTP, HTTP, FTP, DHCP",
-    "targetDate": "2027-01-14",
+    "subject": "Compiler Design",
+    "topic": "Parsing: Top-Down Parsing (LL(1)), Bottom-Up Parsing (Operator Precedence)",
+    "targetDate": "2026-12-20",
     "completed": false,
     "completedAt": null,
     "remarks": ""
   },
   {
     "serialNumber": 90,
+    "subject": "Compiler Design",
+    "topic": "Parsing: LR Parsers (SLR, CLR, LALR), Shift-Reduce Conflicts",
+    "targetDate": "2026-12-21",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 91,
+    "subject": "Compiler Design",
+    "topic": "Parsing: LR Parsers (SLR, CLR, LALR), Shift-Reduce Conflicts",
+    "targetDate": "2026-12-22",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 92,
+    "subject": "Compiler Design",
+    "topic": "Syntax Directed Translation: Synthesized & Inherited Attributes, SDD/SDT",
+    "targetDate": "2026-12-23",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 93,
+    "subject": "Compiler Design",
+    "topic": "Intermediate Code Generation & Run-Time Environments: Three-Address Code, Symbol Tables, Parameter Passing",
+    "targetDate": "2026-12-24",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 94,
+    "subject": "Compiler Design",
+    "topic": "Code Optimization & Basic Blocks: Local Optimization, Basic Blocks, DAGs, Peephole Optimization",
+    "targetDate": "2026-12-25",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 95,
+    "subject": "Compiler Design",
+    "topic": "Code Optimization & Basic Blocks: Local Optimization, Basic Blocks, DAGs, Peephole Optimization",
+    "targetDate": "2026-12-26",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 96,
+    "subject": "Compiler Design",
+    "topic": "Data-Flow Analyses: Liveness Analysis, Constant Propagation, Common Subexpression Elimination",
+    "targetDate": "2026-12-27",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 97,
+    "subject": "Computer Organization & Architecture",
+    "topic": "Machine Instructions: Addressing Modes, Instruction Formats, Execution Cycle",
+    "targetDate": "2026-12-28",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 98,
+    "subject": "Computer Organization & Architecture",
+    "topic": "ALU & Data Path: Computer Arithmetic (Addition, Subtraction, Booth's Algorithm)",
+    "targetDate": "2026-12-29",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 99,
+    "subject": "Computer Organization & Architecture",
+    "topic": "ALU & Data Path: Computer Arithmetic (Addition, Subtraction, Booth's Algorithm)",
+    "targetDate": "2026-12-30",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 100,
+    "subject": "Computer Organization & Architecture",
+    "topic": "Pipelining: Pipeline Hazards (Data, Structural, Control), Throughput & Speedup",
+    "targetDate": "2026-12-31",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 101,
+    "subject": "Computer Organization & Architecture",
+    "topic": "Memory Hierarchy: Main Memory, Auxiliary Memory, Cache Memory Mapping (Direct, Set-Associative)",
+    "targetDate": "2027-01-01",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 102,
+    "subject": "Computer Organization & Architecture",
+    "topic": "Cache Performance: Hit Ratio, Write Policies, Cache Coherence",
+    "targetDate": "2027-01-02",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 103,
+    "subject": "Computer Organization & Architecture",
+    "topic": "I/O Interface: Programmed I/O, Interrupt-driven I/O, Direct Memory Access (DMA)",
+    "targetDate": "2027-01-03",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 104,
+    "subject": "Computer Organization & Architecture",
+    "topic": "I/O Interface: Programmed I/O, Interrupt-driven I/O, Direct Memory Access (DMA)",
+    "targetDate": "2027-01-04",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 105,
+    "subject": "Computer Networks",
+    "topic": "ISO/OSI & TCP/IP Protocol Stacks, Physical Layer Basics",
+    "targetDate": "2027-01-05",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 106,
+    "subject": "Computer Networks",
+    "topic": "Switching Basics: Circuit Switching, Packet Switching, Virtual Circuit Switching",
+    "targetDate": "2027-01-06",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 107,
+    "subject": "Computer Networks",
+    "topic": "Data Link Layer: Framing, Error Detection (CRC, Checksum), Error Control, Ethernet Bridging & Switches",
+    "targetDate": "2027-01-07",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 108,
+    "subject": "Computer Networks",
+    "topic": "Data Link Layer: Framing, Error Detection (CRC, Checksum), Error Control, Ethernet Bridging & Switches",
+    "targetDate": "2027-01-08",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 109,
+    "subject": "Computer Networks",
+    "topic": "Data Link Layer: Sliding Window Protocols (Stop & Wait, Go-Back-N, Selective Repeat), CSMA/CD",
+    "targetDate": "2027-01-09",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 110,
+    "subject": "Computer Networks",
+    "topic": "Network Layer: IPv4 Addressing, Subnetting, CIDR, IPv6 Basics",
+    "targetDate": "2027-01-10",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 111,
+    "subject": "Computer Networks",
+    "topic": "Network Layer Protocols: ARP, ICMP, NAT (Network Address Translation)",
+    "targetDate": "2027-01-11",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 112,
+    "subject": "Computer Networks",
+    "topic": "Network Layer Protocols: ARP, ICMP, NAT (Network Address Translation)",
+    "targetDate": "2027-01-12",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 113,
+    "subject": "Computer Networks",
+    "topic": "Network Layer Routing: Distance Vector, Link State Routing, Fragmentation",
+    "targetDate": "2027-01-13",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 114,
+    "subject": "Computer Networks",
+    "topic": "Transport Layer: TCP vs UDP, Flow Control, Congestion Control, Socket Interface Basics",
+    "targetDate": "2027-01-14",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 115,
+    "subject": "Computer Networks",
+    "topic": "Application Layer: DNS, SMTP, HTTP, FTP, DHCP",
+    "targetDate": "2027-01-15",
+    "completed": false,
+    "completedAt": null,
+    "remarks": ""
+  },
+  {
+    "serialNumber": 116,
     "subject": "GRAND REVISION & MOCKS",
     "topic": "Full Syllabus Revision 1: Programming, DS & Algorithms",
     "targetDate": "2027-01-16",
@@ -810,52 +1044,52 @@
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 91,
+    "serialNumber": 117,
     "subject": "GRAND REVISION & MOCKS",
-    "topic": "Full Syllabus Revision 2: Discrete Maths (Lattices/Monoids included) & Aptitude",
+    "topic": "Full Syllabus Revision 2: Discrete Maths & Aptitude",
     "targetDate": "2027-01-17",
     "completed": false,
     "completedAt": null,
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 92,
+    "serialNumber": 118,
     "subject": "GRAND REVISION & MOCKS",
-    "topic": "Full Syllabus Revision 3: Operating Systems (IPC/IO) & Digital Logic",
+    "topic": "Full Syllabus Revision 3: Operating Systems & Digital Logic",
     "targetDate": "2027-01-18",
     "completed": false,
     "completedAt": null,
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 93,
+    "serialNumber": 119,
     "subject": "GRAND REVISION & MOCKS",
-    "topic": "Full Syllabus Revision 4: DBMS (Integrity/Recovery) & Linear Algebra",
+    "topic": "Full Syllabus Revision 4: DBMS & Linear Algebra",
     "targetDate": "2027-01-19",
     "completed": false,
     "completedAt": null,
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 94,
+    "serialNumber": 120,
     "subject": "GRAND REVISION & MOCKS",
-    "topic": "Full Syllabus Revision 5: TOC & Compiler Design (Data-Flow Analysis/DAG)",
+    "topic": "Full Syllabus Revision 5: TOC & Compiler Design",
     "targetDate": "2027-01-20",
     "completed": false,
     "completedAt": null,
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 95,
+    "serialNumber": 121,
     "subject": "GRAND REVISION & MOCKS",
-    "topic": "Full Syllabus Revision 6: COA & Computer Networks (ARP/ICMP/NAT/Sockets)",
+    "topic": "Full Syllabus Revision 6: COA & Computer Networks",
     "targetDate": "2027-01-21",
     "completed": false,
     "completedAt": null,
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 96,
+    "serialNumber": 122,
     "subject": "GRAND REVISION & MOCKS",
     "topic": "Full Mock Test 1 & Error Log Analysis",
     "targetDate": "2027-01-22",
@@ -864,7 +1098,7 @@
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 97,
+    "serialNumber": 123,
     "subject": "GRAND REVISION & MOCKS",
     "topic": "Full Mock Test 2 & Weak Topic Drill",
     "targetDate": "2027-01-23",
@@ -873,7 +1107,7 @@
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 98,
+    "serialNumber": 124,
     "subject": "GRAND REVISION & MOCKS",
     "topic": "Full Mock Test 3 & PYQ High-Yield Solving",
     "targetDate": "2027-01-24",
@@ -882,7 +1116,7 @@
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 99,
+    "serialNumber": 125,
     "subject": "GRAND REVISION & MOCKS",
     "topic": "Full Mock Test 4 & Speed & Accuracy Optimization",
     "targetDate": "2027-01-25",
@@ -891,7 +1125,7 @@
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 100,
+    "serialNumber": 126,
     "subject": "GRAND REVISION & MOCKS",
     "topic": "Full Mock Test 5 & Virtual Calculator Speed Run",
     "targetDate": "2027-01-26",
@@ -900,7 +1134,7 @@
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 101,
+    "serialNumber": 127,
     "subject": "GRAND REVISION & MOCKS",
     "topic": "Formula & Short Notes Marathon Review (Part 1)",
     "targetDate": "2027-01-27",
@@ -909,7 +1143,7 @@
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 102,
+    "serialNumber": 128,
     "subject": "GRAND REVISION & MOCKS",
     "topic": "Formula & Short Notes Marathon Review (Part 2)",
     "targetDate": "2027-01-28",
@@ -918,7 +1152,7 @@
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 103,
+    "serialNumber": 129,
     "subject": "GRAND REVISION & MOCKS",
     "topic": "Final High-Weightage PYQ Refresh & Error Prevention",
     "targetDate": "2027-01-29",
@@ -927,9 +1161,9 @@
     "remarks": "Final Sprint"
   },
   {
-    "serialNumber": 104,
+    "serialNumber": 130,
     "subject": "GRAND REVISION & MOCKS",
-    "topic": "Final Day Before Exam: Mind Relaxation & Admit Card/Rules Check",
+    "topic": "Final Day Before Exam: Mind Relaxation & Rules Check",
     "targetDate": "2027-01-30",
     "completed": false,
     "completedAt": null,
